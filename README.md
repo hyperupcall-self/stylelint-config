@@ -1,4 +1,4 @@
-# stylelint-config-hyperupcall
+# @hyperupcall/stylelint-config
 
 Edwin's Stylelint configuration
 
@@ -6,6 +6,6 @@ Edwin's Stylelint configuration
 
 ```json
 {
-	"extends": ["stylelint-config-hyperupcall"]
+	"extends": ["@hyperupcall/stylelint-config"]
 }
 ```
